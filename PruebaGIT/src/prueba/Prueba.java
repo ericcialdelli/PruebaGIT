@@ -8,6 +8,7 @@ public class Prueba {
 	}
 	
 	public void met1(){
-		
+	
+		System.out.println("Estoy en Rama2");
 	}
 }
