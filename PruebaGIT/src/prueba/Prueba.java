@@ -6,4 +6,8 @@ public class Prueba {
 
 		System.out.println("3");
 	}
+	
+	public void met1(){
+		
+	}
 }
