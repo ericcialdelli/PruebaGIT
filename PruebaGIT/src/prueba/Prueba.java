@@ -11,4 +11,9 @@ public class Prueba {
 		
 		System.out.println("Estoy en Rama1");
 	}
+		
+	public void met2(){
+		
+		System.out.println("Estoy en Rama1");
+	}	
 }
